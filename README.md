@@ -68,7 +68,7 @@ This application was developed using HTML, CSS, and JavaScript. It features a re
 
 This code defines an array of characters to be used in generating a password. The array includes lowercase and uppercase letters, numbers, and special characters.
 
-The generatePassword() function is defined to prompt the user for the desired length of the password and which character types to include. It validates the user's input and initializes an array to hold the available characters based on user-selected criteria.
+The generatePassword() function is defined to prompt the user for the desired length of the password and which character types to include. It validates the user's input and initializes an array to hold the available characters based on promoted ok selection.
 
 The function generates a password by selecting random characters from the poolOfCharacters.
 
