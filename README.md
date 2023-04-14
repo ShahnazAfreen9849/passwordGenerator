@@ -50,7 +50,7 @@ There is no installation required for this application. Simply click on the depl
 
 . Allows users to choose whether to include lowercase letters, uppercase letters, numbers, and special characters.
 
-. Allows users to copy the generated password.
+
 
 
 ## Development
